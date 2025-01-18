@@ -71,7 +71,7 @@ Dataset ini sering digunakan dalam:
 - Studi kasus di bidang e-commerce.
 
 Jika dataset ini diambil dari sumber tertentu, tambahkan link sumber di bawah ini:
-- **Sumber Dataset:** [Masukkan link sumber dataset di sini]
+- **Sumber Dataset:** [kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
 
 ---
 
